@@ -1,7 +1,4 @@
 version: "3"
-# FIND&REPLACE ALL "domain.url" to your domain
-# FIND&REPLACE ALL "domain.url.conf" to your domain
-# FIND&REPLACE ALL "#-" to "-"
 services:
   php-fpm:
     image: php:fpm-alpine
